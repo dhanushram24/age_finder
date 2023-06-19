@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/age_finder/static/css/main.076e0be8.css",
+    "main.js": "/age_finder/static/js/main.7205fdf3.js",
+    "index.html": "/age_finder/index.html",
+    "main.076e0be8.css.map": "/age_finder/static/css/main.076e0be8.css.map",
+    "main.7205fdf3.js.map": "/age_finder/static/js/main.7205fdf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.076e0be8.css",
+    "static/js/main.7205fdf3.js"
+  ]
+}
